@@ -1,0 +1,9 @@
+# This folder contain the photo for identify identity/photo
+identity/photo.png
+# File about LaTex
+/resume.aux
+/resume.fdb_latexmk
+/resume.fls
+/resume.log
+/resume.out
+/resume.synctex.gz
